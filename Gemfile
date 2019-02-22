@@ -27,9 +27,9 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-gem 'bootstrap', '~> 4.1.1'
+gem 'bootstrap'
 gem 'jquery-rails'
-gem "bootstrap_form", "~> 4.0.0.alpha1"
+gem "bootstrap_form"
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
